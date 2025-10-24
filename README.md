@@ -16,5 +16,12 @@ To create a functional Python script that accepts marks, calculates the total, a
 - Calculates total and average
 - Displays grade based on average marks
 - Handles invalid input gracefully
+##  Tools & Libraries
+- Python 3.x
 
-
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/<Nivya.M>/sample-project-management.gito
+open terminal inside the project folder 
+cd-sample-project-management
